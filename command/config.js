@@ -17,10 +17,10 @@ global.APIKeys = {
 
 //━━━━━━━━━━━━━━━[ OTHER ]━━━━━━━━━━━━━━━━━//
 
-global.ownername = 'owner - sanzy'
-global.owner = ['6281276698054']
-global.packname = 'Sanzy'
-global.author = 'Gemoyy'
+global.ownername = 'NandiXD'
+global.owner = ['6283897021821']
+global.packname = 'NandiBot-MD'
+global.author = 'Whatsapp Bot'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
